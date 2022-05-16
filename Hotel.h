@@ -1,5 +1,11 @@
 
 #include <string>
+#include "WeddingHall.h"
+#include "Reservation.h"
+#include "UserAccount.h"
+#include "Review.h"
+#include "Payment.h"
+#include "Rating.h"
 
 using namespace std;
 
